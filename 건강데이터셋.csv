@@ -1,0 +1,11 @@
+EmployeeID,Gender,Age,Department,WorkHours,SleepHours,ExerciseFreq,CoffeeIntake,StressLevel,BMI,Smoker,Productivity
+E001,Male,29,Sales,9,6,1,3,7,26.5,Yes,68
+E002,Female,34,HR,8,7,3,1,4,22.1,No,85
+E003,Male,41,Engineering,10,5,0,5,9,29.8,Yes,60
+E004,Female,26,Marketing,8,7,4,2,3,21.3,No,90
+E005,Male,38,Finance,9,6,2,4,6,25.2,Yes,75
+E006,Female,31,Engineering,7,8,3,1,2,23.5,No,88
+E007,Male,45,Sales,11,5,0,6,8,28.4,Yes,55
+E008,Female,28,HR,8,7,2,2,4,22,No,80
+E009,Male,36,Marketing,9,6,1,3,6,27.1,Yes,70
+E010,Female,30,Finance,8,8,4,1,3,21.9,No,92
